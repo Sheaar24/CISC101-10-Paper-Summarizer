@@ -1,3 +1,6 @@
+Evidence_mode = "strict", Only use info from the paper; if missing, output a warning
+Standardized warning messages for missing or short sections
+
 Components:
 
 Missing or Empty Day Detector
