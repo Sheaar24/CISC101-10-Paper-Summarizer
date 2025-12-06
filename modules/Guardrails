@@ -1,3 +1,5 @@
+Change Log
+-Added strict evidence mode and warnig messages
 Evidence_mode = "strict", Only use info from the paper; if missing, output a warning
 Standardized warning messages for missing or short sections
 
