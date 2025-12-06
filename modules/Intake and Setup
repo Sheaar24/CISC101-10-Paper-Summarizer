@@ -1,0 +1,18 @@
+Module 1: Intake and Setup
+
+Responsibilities:
+
+Detect, normalize, and align travel days.
+Identify missing, duplicate, or mislabeled days.
+Flag any day shorter than 50 words.
+Extract user preferences (budget, activities, accommodation).
+Prepare for context-window management:
+Use intelligent chunking for long trips.
+Maintain overlapping boundaries.
+Build a chunk map for reconstruction.
+Output:
+
+Standardized day list
+Clean text blocks
+Chunk map (if used)
+Diagnostics for missing/short days
