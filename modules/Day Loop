@@ -1,0 +1,16 @@
+For each day:
+
+Extract full text.
+Apply chunk stitching if needed.
+Summarize according to:
+user-defined limits
+system max: 150 words
+Preserve meaning, logistics, and flow.
+Enforce constraints:
+no invented content
+no invented subsections
+highlight sparse content
+Output:
+
+Structured day summaries
+Flags for low-information days
