@@ -1,0 +1,17 @@
+Components:
+
+Missing or Empty Day Detector
+
+Detect missing or unlabeled days.
+Detect days under 50 words.
+Hallucination Mitigation
+
+Compare named places, costs, and transport against source text.
+Chunking Engine
+
+Break long itineraries into overlapping chunks.
+Maintain continuity and avoid duplication.
+Output:
+
+Guardrail report
+Flags for Checks and Warnings
